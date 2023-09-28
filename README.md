@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.abtahihasan.com](https://portfolio.abtahihasan.com) -->
 
-- 📫 How to reach me *anikshariarrahman@gmail.com*
+- 📫 How to reach me *jakariachynabil@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <a  href="https://www.linkedin.com/in/shahriar-rahman-anik-88818b291"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
