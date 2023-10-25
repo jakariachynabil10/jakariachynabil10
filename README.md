@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakaria Chowdhury Nabil</h1>
+<h1 align="center">Hi 👋, I'm Zakaria Chowdhury Nabil</h1>
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
 
 <h3 align="center">A passionate MERN Stack web developer</h3>
